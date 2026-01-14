@@ -5,7 +5,7 @@
 - 🌱 I’m learning **Terraform & GCP**
 - 🧠 Passionate about **Data, Automation & Finance**
 - 💬 Ask me about **Python, Airflow, Snowflake, or Investing**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/jackson-moses-35b163126)
 
 ---
 
