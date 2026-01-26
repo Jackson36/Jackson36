@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jackson Moses</h1>
-<h3 align="center">Data Engineer | Data Architect | Finance Enthusiast</h3>
+<h3 align="center">Data Engineer | Data Architect | Python Developer</h3>
 
 - 🔭 I’m currently working on **ETL pipelines & scalable architectures**
 - 🌱 I’m learning **Terraform & GCP**
-- 🧠 Passionate about **Data, Automation & Finance**
-- 💬 Ask me about **Python, Airflow, Snowflake, or Investing**
+- 🧠 Passionate about **Data, Automation & Cloud Technologies**
+- 💬 Ask me about **Python, Airflow, Snowflake, or Databricks**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/jackson-moses-35b163126)
 
 ---
